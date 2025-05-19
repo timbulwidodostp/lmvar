@@ -1,6 +1,8 @@
 # lmvar
 Linear Regression with Non-Constant Variances Use lmvar With (In) R Software
 
+https://www.youtube.com/watch?v=Gi0CGVpE6dI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
